@@ -29,7 +29,7 @@ I enjoy building clean, functional applications and continuously improving my sk
 ---
 
 ## 📊 GitHub Stats
-![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=YTrgDuyNg&show_icons=true&theme=default&hide_border=true)
+![Duy's GitHub stats](https://github-readme-stats.vercel.app/api?username=TrgDuyNg&show_icons=true&theme=default&hide_border=true)
 
 ---
 
