@@ -1,8 +1,12 @@
 # 📌 About Me
 
-👋 I'm **Truong Duy**, a full-stack development student passionate about building clean and efficient applications.  
-📚 I’m currently seeking an **internship** to apply my skills in real-world projects.  
-💡 I love working with both frontend and backend technologies, focusing on writing clean APIs and well-structured code.  
+🎓 I'm an Information Technology student at the University of Economics Ho Chi Minh (UEH).
+
+🔭 I'm passionate about Web Development Engineering and enjoy exploring new technologies, building software, and contributing to meaningful projects.
+
+🔍 I’m deeply interested in full-stack development—working with both frontend and backend technologies, learning web frameworks, and continuously expanding my skill set.
+
+💡 I’m always looking for opportunities to apply my knowledge in real-world projects, solve problems creatively, and grow as a developer.
 
 ---
 
